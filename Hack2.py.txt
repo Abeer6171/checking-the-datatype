@@ -1,0 +1,6 @@
+a=10
+b=20.3
+c="abeer"
+print("the type of a is",type(a))       
+print("the type of a is",type(b))
+print("the type of a is",type(c))
